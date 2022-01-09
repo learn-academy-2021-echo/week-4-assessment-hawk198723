@@ -84,8 +84,6 @@ describe("minAndMax", () => {
 // function minAndMax(array) {
 //     //declare an array, in the array call the the min and max methods, put in the index 0 and 1
 //     let minAndMaxArray = [Math.min(...array), Math.max(...array)]
-//     // Math.min(...array)
-//     // Math.max(...array)
 //     //return the array
 //     return minAndMaxArray
 // }
