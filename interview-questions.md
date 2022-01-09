@@ -66,3 +66,4 @@ form events: focus, blur, change, submit.
 It means you don't have to manually call the database yourself; the ORM handles it for you. Ruby on Rails uses one called ActiveRecord, and it's a really good one. Active Record gives us several mechanisms, the most important being the ability to: > Represent models and their data. 
 
 5. Active Record: Active Record is the M in MVC - the model - which is the layer of the system responsible for representing business data and logic. Active Record facilitates the creation and use of business objects whose data requires persistent storage to a database. It is an implementation of the Active Record pattern which itself is a description of an Object Relational Mapping system.  
+ 

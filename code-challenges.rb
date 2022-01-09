@@ -39,7 +39,7 @@ def removes_all_vowels str
     newstr
 end
     p removes_all_vowels album3
- 
+  
 
 # -------------------3) Create a method that takes in a string and checks if the string is a palindrome. A palindrome is the same word spelled forwards or backwards. Use the test variables provided.
 
