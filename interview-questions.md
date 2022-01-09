@@ -13,7 +13,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
                      Props are only passed in one direction, from parent to child
                      Props cannot be updated, they are "read only"
 
-
+ 
 
 2. What is a DOM event?
 

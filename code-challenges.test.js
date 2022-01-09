@@ -60,7 +60,7 @@ function shuffleTheRest(array) {
 // --------------------2) Create a function that takes an array of numbers and returns an array of the minimum and maximum numbers in that order.
 
 // a) Create a test with expect statements for each of the variables provided.
-
+ 
 var nums1 = [3, 56, 90, -8, 0, 23, 6]
 // Expected output: [-8, 90]
 var nums2 = [109, 5, 9, 67, 8, 24]

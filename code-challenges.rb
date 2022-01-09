@@ -32,7 +32,7 @@ album2 = 'Sgt Pepper'
 # Expected output: 'Sgt Pppr'
 album3 = 'Abbey Road'
 # Expected output: 'bby Rd'
-
+ 
 
 def removes_all_vowels str
     newstr = str.delete "aeiouAEIOU"
