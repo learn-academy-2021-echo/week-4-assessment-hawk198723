@@ -35,7 +35,7 @@ album3 = 'Abbey Road'
  
 
 def removes_all_vowels str
-    str.delete "aeiouAEIOU"
+    str.delete 'aeiouAEIOU'
 end
     p removes_all_vowels album3
   
