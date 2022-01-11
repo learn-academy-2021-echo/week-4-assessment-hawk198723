@@ -50,7 +50,7 @@ describe("shuffleTheRest", () => {
 
 function shuffleTheRest(array) {
     array.shift();
-    return shuffledArray = array.sort((a, b) => 0.5 - Math.random()); 
+    return shuffledArray = array.sort( a => 0.5 - Math.random()); 
 }
 
 // b) Create the function that makes the test pass.
