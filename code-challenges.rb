@@ -49,7 +49,7 @@ is_palindrome2 = 'LEARN'
 is_palindrome3 = 'Rotator'
 # Expected output: 'Rotator is a palindrome'
 
-def palindrome?(string)
+def palindrome (string)
     if string.downcase == string.reverse.downcase
        p "#{string} is a palindrome."
     else
@@ -57,4 +57,4 @@ def palindrome?(string)
     end
 end
 
-palindrome? is_palindrome3
+palindrome is_palindrome3
