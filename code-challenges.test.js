@@ -92,7 +92,7 @@ describe("minAndMax", () => {
 // -- Refactor --  
 function minAndMax(array) {
 
-    return minAndMaxArray = [Math.min(...array), Math.max(...array)]
+    return [Math.min(...array), Math.max(...array)]
 }
 // --------------------3) Create a function that takes in two arrays as arguments and returns one array with no duplicate values. STRETCH: Use the spread operator to pass in a dynamic number of arguments.
 
