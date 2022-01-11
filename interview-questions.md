@@ -35,6 +35,8 @@ form events: focus, blur, change, submit.
   Your answer: it's a very abstrct programming language. You can use it to build an encapsulate abstrct object. Whenever we need it, use can just call that object's name(instance).  Functional programming , such C language. we cann't do it like OOP language, the data has to run from top to buttom. Not that flexible like OOP language.
 
   Researched answer: In functional programming, data cannot be stored in objects and it can only be transformed by creating functions. In object-oriented programming, data is stored in objects. In Object-oriented programming, it is really hard to maintain objects while increasing the levels of inheritance.
+  
+ Salvador Tena to Everyone (9:31 AM): The concept that information is stored in objects. In OOP the main concepts are encapsulation meaning storage of information within an object, abstraction meaning only use the needed information within an object and nothing more, inheritance the passage of properties and methods to a child object, and polymorphism meaning a class/object can represent many things with the same configuration. OOP is based on objects while functional programming is based on functions. Objects store information while functions do not store information and depend only on the input arguments.
 
 
 
